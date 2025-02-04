@@ -1,9 +1,33 @@
 [
   {
+    "title": "Pocket pulse 2.0",
+    "imageSrc": "projects/project.png",
+    "description": "An application to manage and track transactions among friends.",
+    "skills": ["MERN", "Tailwind","MUI","Firebase" ],
+    "demo": "",
+    "source": "https://github.com/joker-ksh/Pocket-Pulse-2.0"
+  },
+  {
+    "title": "FilmVault",
+    "imageSrc": "projects/project.png",
+    "description": "IMDB clone frontend (Scaler Academy Certified)",
+    "skills": ["React", "Tailwind", "MUI","Firebase" ],
+    "demo": "",
+    "source": "https://github.com/joker-ksh/FilmVault"
+  },
+  {
+    "title": "Credit Card Fraud Detection",
+    "imageSrc": "projects/project.png",
+    "description": "ML Model to Detect Fruad with Kaggle DataSet",
+    "skills": ["Numpy", "Pandas", "Matplotlib" ],
+    "demo": "https://colab.research.google.com/drive/1dBI3kTV7NVp2Iw1S-YMUnpjAhk6eorzW?usp=sharing",
+    "source": "https://colab.research.google.com/drive/1dBI3kTV7NVp2Iw1S-YMUnpjAhk6eorzW?usp=sharing"
+  },
+  {
     "title": "Buzz",
     "imageSrc": "projects/project.png",
     "description": "This is a chat app made for realtime chat between two end users",
-    "skills": ["React", "firebase", "Node"],
+    "skills": ["React", "firebase", "Node","Socket.io"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
