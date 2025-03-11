@@ -8,12 +8,12 @@
     "source": "https://github.com/joker-ksh/Pocket-Pulse-2.0"
   },
   {
-    "title": "Oasis infobyte",
+    "title": "OptiTask",
     "imageSrc": "projects/project.png",
-    "description": "Javascript Project intern for fundamentals and hands-on experience",
-    "skills": ["javascript", "css", "html"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "utomated Employee Task Assignment System with MERN and Gemini",
+    "skills": ["MERN", "Tailwind", "Firebase"],
+    "demo": "https://opti-task.vercel.app/",
+    "source": "https://github.com/joker-ksh/OptiTask"
   },
   {
     "title": "FilmVault",
