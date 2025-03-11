@@ -8,6 +8,14 @@
     "source": "https://github.com/joker-ksh/Pocket-Pulse-2.0"
   },
   {
+    "title": "Oasis infobyte",
+    "imageSrc": "projects/project.png",
+    "description": "Javascript Project intern for fundamentals and hands-on experience",
+    "skills": ["javascript", "css", "html"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
     "title": "FilmVault",
     "imageSrc": "projects/project.png",
     "description": "IMDB clone frontend (Scaler Academy Certified)",
@@ -38,13 +46,5 @@
     "skills": ["javascript", "Node", "Firebase"],
     "demo": "https://660ffa4262a916177a7e1d68--wonderful-trifle-f1624b.netlify.app/",
     "source": "https://github.com/joker-ksh/pocket-pulse"
-  },
-  {
-    "title": "Oasis infobyte",
-    "imageSrc": "projects/project.png",
-    "description": "Javascript Project intern for fundamentals and hands-on experience",
-    "skills": ["javascript", "css", "html"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
   }
 ]
