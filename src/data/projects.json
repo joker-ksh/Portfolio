@@ -10,7 +10,7 @@
   {
     "title": "OptiTask",
     "imageSrc": "projects/project.png",
-    "description": "utomated Employee Task Assignment System with MERN and Gemini",
+    "description": "Automated Employee Task Assignment System with MERN and Gemini",
     "skills": ["MERN", "Tailwind", "Firebase"],
     "demo": "https://opti-task.vercel.app/",
     "source": "https://github.com/joker-ksh/OptiTask"
