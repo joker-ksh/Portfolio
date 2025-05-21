@@ -1,5 +1,13 @@
 [
   {
+    "role": "SDE Intern",
+    "organisation": "INaK Animation Pvt. Ltd.",
+    "startDate": "May, 2025",
+    "endDate": "Present",
+    "experiences": ["Industry level Coding Practices", "Hands-On Experience"],
+    "imageSrc": "history/INak.png"
+  },
+  {
     "role": "React Js Intern",
     "organisation": "TechnoML",
     "startDate": "Jan, 2025",

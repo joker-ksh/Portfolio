@@ -16,6 +16,14 @@
     "source": "https://github.com/joker-ksh/OptiTask"
   },
   {
+    "title": "Voting-Dapp",
+    "imageSrc": "projects/project.png",
+    "description": "Decentralized Voting Application on Local Ethereum Blockchain",
+    "skills": ["React", "Hardhat", "Meta Mask"],
+    "demo": "",
+    "source": "https://github.com/joker-ksh/Voting-Dapp"
+  },
+  {
     "title": "FilmVault",
     "imageSrc": "projects/project.png",
     "description": "IMDB clone frontend (Scaler Academy Certified)",
