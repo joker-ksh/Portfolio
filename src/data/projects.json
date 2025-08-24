@@ -4,13 +4,13 @@
     "imageSrc": "projects/project.png",
     "description": "An application to manage and track transactions among friends.",
     "skills": ["MERN", "Tailwind","MUI","Firebase" ],
-    "demo": "",
+    "demo": "https://amazing-torrone-063cca.netlify.app/",
     "source": "https://github.com/joker-ksh/Pocket-Pulse-2.0"
   },
   {
     "title": "Collaborative Code Editor",
     "imageSrc": "projects/project.png",
-    "description": "An application to manage and track transactions among friends.",
+    "description": "A collaborative editor that lets multiple users edit codes in real time.",
     "skills": ["MERN", "WebRTC","YJS","Socket.io" ],
     "demo": "https://github.com/joker-ksh/Collaborative-code-editor",
     "source": "https://github.com/joker-ksh/Collaborative-code-editor"
@@ -24,11 +24,19 @@
     "source": "https://github.com/joker-ksh/OptiTask"
   },
   {
+    "title": "RAG Pipeline Langchain",
+    "imageSrc": "projects/project.png",
+    "description": "A simple retrieval-augmented generation framework using LangChain.",
+    "skills": ["RAG", "Langchain"],
+    "demo": "https://github.com/joker-ksh/RAG-Pipeline-in-Langchain",
+    "source": "https://github.com/joker-ksh/RAG-Pipeline-in-Langchain"
+  },
+  {
     "title": "Voting-Dapp",
     "imageSrc": "projects/project.png",
     "description": "Decentralized Voting Application on Local Ethereum Blockchain",
     "skills": ["React", "Hardhat", "Meta Mask"],
-    "demo": "",
+    "demo": "https://drive.google.com/file/d/1W21SY8032Lc_U0UQDVhcxmrmY4qG7e7P/view?usp=sharing&t=1051",
     "source": "https://github.com/joker-ksh/Voting-Dapp"
   },
   {
@@ -36,7 +44,7 @@
     "imageSrc": "projects/project.png",
     "description": "IMDB clone frontend (Scaler Academy Certified)",
     "skills": ["React", "Tailwind", "MUI","Firebase" ],
-    "demo": "",
+    "demo": "https://github.com/joker-ksh/FilmVault",
     "source": "https://github.com/joker-ksh/FilmVault"
   },
   {
@@ -48,19 +56,19 @@
     "source": "https://colab.research.google.com/drive/1dBI3kTV7NVp2Iw1S-YMUnpjAhk6eorzW?usp=sharing"
   },
   {
-    "title": "Buzz",
-    "imageSrc": "projects/project.png",
-    "description": "This is a chat app made for realtime chat between two end users",
-    "skills": ["React", "firebase", "Node","Socket.io"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
     "title": "Pocket pulse",
     "imageSrc": "projects/project.png",
     "description": "An application to manage and track transactions among friends.",
     "skills": ["javascript", "Node", "Firebase"],
     "demo": "https://660ffa4262a916177a7e1d68--wonderful-trifle-f1624b.netlify.app/",
     "source": "https://github.com/joker-ksh/pocket-pulse"
+  },
+  {
+    "title": "Buzz",
+    "imageSrc": "projects/project.png",
+    "description": "This is a chat app made for realtime chat between two end users",
+    "skills": ["React", "firebase", "Node","Socket.io"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
   }
 ]
