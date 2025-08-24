@@ -8,6 +8,14 @@
     "source": "https://github.com/joker-ksh/Pocket-Pulse-2.0"
   },
   {
+    "title": "Collaborative Code Editor",
+    "imageSrc": "projects/project.png",
+    "description": "An application to manage and track transactions among friends.",
+    "skills": ["MERN", "WebRTC","YJS","Socket.io" ],
+    "demo": "https://github.com/joker-ksh/Collaborative-code-editor",
+    "source": "https://github.com/joker-ksh/Collaborative-code-editor"
+  },
+  {
     "title": "OptiTask",
     "imageSrc": "projects/project.png",
     "description": "Automated Employee Task Assignment System with MERN and Gemini",

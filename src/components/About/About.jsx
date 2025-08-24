@@ -17,27 +17,27 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
-              <h3 style={{color : '#90EE90'}}>Full stack Web developer</h3>
+              <h3 style={{color : '#90EE90'}}>MERN stack developer</h3>
               <p>
-              I am full stack developer with knowledge of MERN stack.
+              I am full stack developer with knowledge of MERN stack and speciallized in backend development.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
             <div className={styles.aboutItemText}>
-              <h3 style={{color : '#90EE90'}}>Data Structures and Algortihms</h3>
+              <h3 style={{color : '#90EE90'}}>Clouds and DevOps</h3>
               <p>
-              I have a strong grasp of solving real-life problems with data structures and algorithms.
+              I have a strong grasp of cloud technologies and DevOps practices, enabling efficient deployment and scaling of applications.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
-              <h3 style={{color : '#90EE90'}}>ML and Blockchain</h3>
+              <h3 style={{color : '#90EE90'}}>Generative AI and Machine Learning</h3>
               <p>
-              I'm passionate about machine learning and blockchain technology, staying updated with the latest trends.
+              I'm passionate about machine learning and generative AI, staying updated with the latest trends.
               </p>
             </div>
           </li>
